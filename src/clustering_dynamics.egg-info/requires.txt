@@ -1,0 +1,11 @@
+cftime
+cvxpy
+cytoolz
+dask
+matplotlib
+netCDF4
+numpy
+pandas
+scikit-learn
+scipy
+xarray
