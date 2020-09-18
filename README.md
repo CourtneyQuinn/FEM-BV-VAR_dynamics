@@ -1,5 +1,6 @@
 FEM-BV-VAR dynamics
 ===================
+[![DOI](https://zenodo.org/badge/296521603.svg)](https://zenodo.org/badge/latestdoi/296521603)
 
 This repository contains code and notebooks for
 analyzing the dynamics of FEM-BV-VAR models of
